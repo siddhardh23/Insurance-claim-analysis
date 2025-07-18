@@ -1,7 +1,7 @@
 # 🧾 Insurance Claim Analysis
 
 A complete end-to-end SQL project showcasing relational database design, analytical querying, indexing, and role-based access control in a simulated insurance domain.
- 
+
 ---
 
 ## 📌 Objective
